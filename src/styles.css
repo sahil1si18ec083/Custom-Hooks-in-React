@@ -6,3 +6,10 @@
   text-align: center;
   width: 250px;
 }
+.flex {
+  display: flex;
+  justify-content: center;
+}
+.margin {
+  margin: 1rem 3rem;
+}
