@@ -4,6 +4,7 @@ import Counter from "./Counter";
 import LocalStorage from "./LocalStorage";
 import Resize from "./Resize";
 import Theme from "./Theme";
+import Todo from "./Todo";
 export default function App() {
   return (
     <div className="App">
@@ -11,7 +12,8 @@ export default function App() {
       {/* <Counter /> */}
       {/* <LocalStorage /> */}
       {/* <Resize /> */}
-      <Theme />
+      {/* <Theme /> */}
+      {/* <Todo /> */}
     </div>
   );
 }

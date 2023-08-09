@@ -1,4 +1,4 @@
-import { useWindowDimensions } from "./CustomHooks/useWindowDimensions";
+import useWindowDimensions from "./CustomHooks/useWindowDimensions";
 const Resize = () => {
   const { width, height } = useWindowDimensions();
 
